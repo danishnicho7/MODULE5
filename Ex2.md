@@ -1,22 +1,22 @@
-Ex.No:2
-Ex.Name: Write a C++ Program to Check for balanced parenthesis by using Stack STL
-Date:
-Aim:
+# Ex.No:2
+# Ex.Name: Write a C++ Program to Check for balanced parenthesis by using Stack STL
+## Date:
+## Aim:
 
 
-Algorithm:
-
-
-
-
-
-Program:
+## Algorithm:
 
 
 
-Output:
+
+
+## Program:
 
 
 
-Result:
+## Output:
+
+
+
+## Result:
 
