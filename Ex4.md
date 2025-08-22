@@ -1,22 +1,22 @@
-Ex.No:4
-Ex.Name: Write a CPP Program to insert five string elements in to Queue ADT (use STL for Queue)
-Date:
-Aim:
+# Ex.No:4
+# Ex.Name: Write a CPP Program to insert five string elements in to Queue ADT (use STL for Queue)
+## Date:
+## Aim:
 
 
-Algorithm:
-
-
-
-
-
-Program:
+## Algorithm:
 
 
 
-Output:
+
+
+## Program:
 
 
 
-Result:
+## Output:
+
+
+
+## Result:
 
