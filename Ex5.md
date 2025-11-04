@@ -1,5 +1,7 @@
 # Ex.No:5
 # Ex.Name: Write a C++ program to illustrate Student Based Multiple inheritance with protected access specifier, find the student total marks. 
+## Date:04/09/25
+
 ## Aim:
 To write a C++ program to illustrate Student Based Multiple Inheritance with protected access specifier and find the total marks of a student.
 
