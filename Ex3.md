@@ -1,5 +1,7 @@
 # Ex.No:3
 # Ex.Name: Write a CPP Program to insert integer elements in to Queue ADT  and display size of the queue,and first,Last element of the queue (use STL and set maximum size of the is 100)
+## Date:04/09/25
+
 ## Aim:
 To write a C++ program to insert integer elements into a Queue ADT using STL, display the size of the queue, and print the first and last elements. The maximum size of the queue is 100.
 
